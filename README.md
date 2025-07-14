@@ -63,9 +63,8 @@
 
 ## 📈 GitHub Analytics
 
-<p align="center"> <!-- Main Stats --> <img src="https://github-readme-stats.vercel.app/api?username=Kandil7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/> <!-- Most Used Languages --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kandil7&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/> </p> <p align="center"> <!-- GitHub Streak --> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kandil7&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/> </p> <p align="center"> <!-- Contribution Graph --> <img src="https://github-contribution-grid.vercel.app/api?username=Kandil7&bg=transparent&radius=10&theme=github-dark" height="160" alt="Contribution Grid"/> </p> <p align="center"> <!-- GitHub Trophy --> <img src="https://github-profile-trophy.vercel.app/?username=Kandil7&theme=flat&column=6&no-frame=true&no-bg=true&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest" /> </p>
+<p align="center"> <!-- Main Stats --> <img src="https://github-readme-stats.vercel.app/api?username=Kandil7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/> <!-- Most Used Languages --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kandil7&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/> </p> <p align="center"> <!-- GitHub Streak --> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kandil7&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/> </p> <p align="center">  <!-- GitHub Trophy --> <img src="https://github-profile-trophy.vercel.app/?username=Kandil7&theme=dracula&column=5&no-frame=true&no-bg=false&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest" /> </p> 
 
----
 
 ## 📫 Let’s Connect
 
